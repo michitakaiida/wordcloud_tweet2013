@@ -1,7 +1,7 @@
 #Read ME
 - Sample R Script
 	- analysis of tweet export from twitter(csv format) 
-##Prerequisites
+#Prerequisites
 - R
  - RMeCab
  - wordcloud
